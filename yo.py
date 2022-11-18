@@ -1,1 +1,1 @@
-print("LLAP er bedre")
+print("Wiiii")
